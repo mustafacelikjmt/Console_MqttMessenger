@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_MqttMessenger", "Console_MqttMessenger\Console_MqttMessenger.csproj", "{F1200CC7-B6C8-48F8-8BD9-D5941DB7AC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeneyKonsolu", "DeneyKonsolu\DeneyKonsolu.csproj", "{4BABE74A-EA89-405E-BA9F-B32DB160158E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1200CC7-B6C8-48F8-8BD9-D5941DB7AC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1200CC7-B6C8-48F8-8BD9-D5941DB7AC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1200CC7-B6C8-48F8-8BD9-D5941DB7AC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1200CC7-B6C8-48F8-8BD9-D5941DB7AC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BABE74A-EA89-405E-BA9F-B32DB160158E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BABE74A-EA89-405E-BA9F-B32DB160158E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BABE74A-EA89-405E-BA9F-B32DB160158E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BABE74A-EA89-405E-BA9F-B32DB160158E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12082BA6-0BEB-4F4D-8174-7AC1ED21E385}
+	EndGlobalSection
+EndGlobal
